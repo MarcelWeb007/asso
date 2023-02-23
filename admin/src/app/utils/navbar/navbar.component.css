@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #fff;
+}
+
+.nav-link {
+    color: var(--primary);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.active {
+    text-decoration: underline;
+    font-weight: 500;
+}
